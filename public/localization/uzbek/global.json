@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "tours": "Turlar",
+    "about": "Biz haqida",
+    "contact": "Aloqa"
+  },
+  "home": {
+    "title": "BUXORO SAYOHATI",
+    "description": "Qadimiy madrasalar, shoxista minoralar va jonli bazaarlarni Markaziy Osiyoning eng jozibali shaharida kashf eting. Tarix, me'morchilik va xorijga to'rtinchi o'zbek mehmondo'stligi unutilmas sayohatni yaratadi.",
+    "goToTour": "Turlarga o'tish",
+    "featuredTours": "Mashhur turlar",
+    "exploreCities": "O'zbekistonning eng nufuzdor shaharlar va yashirin javohirlarini kashf eting",
+    "toursByCity": "Shaharlar bo'yicha turlar",
+    "popularDestinations": "Turizm uchun mashhur manzillar",
+    "samarkandTour": "Samarqand Madaniy Meros Sayohati",
+    "bukharaTour": "Buxoro Qadimiy Shahar Tajribasi Sayohati",
+    "khivaTour": "Xiva Qala'si & Qadimiy Ko'chalar Sayohati",
+    "tashkentTour": "Zamonaviy Tashkent Shahar Sayohati",
+    "ferganaTour": "Fargona Vodiysi Hunarmandchilik & Madaniyat Sayohati",
+    "zaaminTour": "Zaamin tog'lari & Tabiat Oromgohlarig'a Chiqish",
+    "navoyTour": "Navoi Cho'li & Qadimiy Petrogliflar Sayohati",
+    "shahrisabzTour": "Shahrisabz & Amir Temur Meros Sayohati",
+    "priceFrom": "Narxi"
+  },
+  "tours": {
+    "toursByCity": "Shaharlar bo'yicha turlar",
+    "popularDestinations": "Turizm uchun mashhur manzillar",
+    "toursAvailable": "20+ turlar mavjud"
+  },
+  "options": {
+    "privateTour": "Shaxsiy tur",
+    "groupTour": "Guruh turi",
+    "privateDescription": "O'zbekistondan shaxsiy gid, moslashuvchan jadval va faqat siz uchun mo'ljallangan eksklyuziv tajribalar bilan to'liq shaxsiylashtirgan sayohatning bahramand bo'ling",
+    "groupDescription": "O'zbekistonning boy merosini yaramasa sayohatchilari bilan yaxshi tashkil etilgan, arzon guruh tajribasida kashf eting.",
+    "personalGuide": "Shaxsiy litsenziya olgan gid",
+    "flexibleItinerary": "Moslashuvchan marshut va vaqt",
+    "privateTransport": "Shaxsiy transport",
+    "culturalExperiences": "Sizning qiziqishlari bo'yicha moslashtirilgan madaniy tajribalar",
+    "mealsIncluded": "Taom va ichimliklar (tushlik/kechki ovqat)",
+    "personalExpenses": "Shaxsiy xarchlar (shuvenirlar, qo'shimcha tezochasliklar va boshqalar)",
+    "bookTour": "Turni bronlash",
+    "fillForm": "Shaklni to'ldiring va biz tez orada siz bilan bog'lanamiz.",
+    "fullName": "To'liq ismi",
+    "email": "Elektron pochta",
+    "phone": "Telefon raqami",
+    "cancel": "Bekor qilish",
+    "send": "Yuborish",
+    "successMessage": "Tur muvaffaqiyatli bronlandi!"
+  },
+  "tourSelect": {
+    "samarkandTour": "Samarqand Madaniy Meros Sayohati",
+    "startsFrom": "Boshlanadi",
+    "perPerson": "har bir odam uchun",
+    "adult": "Kattalari",
+    "child": "Bola",
+    "infant": "Chaqaloq",
+    "selectDate": "Sanani tanlang",
+    "selectLanguage": "Tilni tanlang",
+    "registan": "Registon Maydoni",
+    "registanDesc": "Qadimiy Samarqandning markazini kashf eting.",
+    "guremir": "Gur-Emir Maqbarasi",
+    "guremirDesc": "Amir Temurning dam olish joyi.",
+    "bibikhanym": "Bibi-Xonim Masjidi",
+    "bibikhanyDesc": "Islom dunyosining eng yirik masjiidlaridan biri.",
+    "siabBazaar": "Siob Bazaar",
+    "siabBazaarDesc": "Samarqandning eng qadimiy bozorida yuring.",
+    "shahizinda": "Shoh-i-Zinda Nekropoli",
+    "shahizindaDesc": "Ko'k maqbaralar bilan muqaddas ziyorat joyi.",
+    "itinerary": "Marshut",
+    "duration": "Davomiyligi",
+    "meetingPoint": "Uchrashish nuqtasi",
+    "included": "Nima kiradi",
+    "bookNow": "Hozir bronlash"
+  },
+  "errors": {
+    "nameRequired": "To'liq ism talab qilinadi",
+    "invalidEmail": "Iltimos, to'g'ri elektron pochtani kiriting",
+    "phoneRequired": "Telefon +998XXXXXXXXX bo'lishi kerak"
+  }
+}

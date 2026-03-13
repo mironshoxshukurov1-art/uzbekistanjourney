@@ -1,0 +1,81 @@
+{
+  "nav": {
+    "home": "Home",
+    "tours": "Tours",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "BUKHARA TOUR",
+    "description": "Discover ancient madrasahs, majestic minarets, and vibrant bazaars in one of Central Asia's most captivating cities. Let history, architecture, and authentic Uzbek hospitality create an unforgettable journey.",
+    "goToTour": "Go to Tour",
+    "featuredTours": "Featured tours",
+    "exploreCities": "Explore Uzbekistan's most iconic cities and hidden gems",
+    "toursByCity": "Tours by cities",
+    "popularDestinations": "Popular destinations for tourists",
+    "samarkandTour": "Samarkand Cultural Heritage Tour",
+    "bukharaTour": "Bukhara Old City Experience Tour",
+    "khivaTour": "Khiva Fortress & Ancient Streets Tour",
+    "tashkentTour": "Modern Tashkent City Tour",
+    "ferganaTour": "Fergana Valley Craft & Culture Tour",
+    "zaaminTour": "Zaamin Mountains & Nature Escape",
+    "navoyTour": "Navoi Desert & Ancient Petroglyphs Tour",
+    "shahrisabzTour": "Shahrisabz & Amir Temur Heritage Tour",
+    "priceFrom": "From"
+  },
+  "tours": {
+    "toursByCity": "Tours by cities",
+    "popularDestinations": "Popular destinations for tourists",
+    "toursAvailable": "20+ tours available"
+  },
+  "options": {
+    "privateTour": "Private Tour",
+    "groupTour": "Group Tour",
+    "privateDescription": "Enjoy a fully personalized journey across Uzbekistan with a private guide, flexible schedule, and exclusive experiences tailored just for you",
+    "groupDescription": "Explore Uzbekistan's rich heritage with like-minded travelers in a well-organized, affordable group experience.",
+    "personalGuide": "Personal licensed guide",
+    "flexibleItinerary": "Flexible itinerary & timing",
+    "privateTransport": "Private transportation",
+    "culturalExperiences": "Cultural experiences tailored to your interests",
+    "mealsIncluded": "Meals & drinks (lunch/dinner)",
+    "personalExpenses": "Personal expenses (souvenirs, snacks, etc.)",
+    "bookTour": "Book Tour",
+    "fillForm": "Fill the form and we will contact you shortly.",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "cancel": "Cancel",
+    "send": "Send",
+    "successMessage": "Tour booked successfully!"
+  },
+  "tourSelect": {
+    "samarkandTour": "Samarkand Cultural Heritage Tour",
+    "startsFrom": "Starts from",
+    "perPerson": "per person",
+    "adult": "Adult",
+    "child": "Child",
+    "infant": "Infant",
+    "selectDate": "Select Date",
+    "selectLanguage": "Select Language",
+    "registan": "Registan Square",
+    "registanDesc": "Explore the heart of ancient Samarkand.",
+    "guremir": "Gur-Emir Mausoleum",
+    "guremirDesc": "The resting place of Amir Timur.",
+    "bibikhanym": "Bibi-Khanym Mosque",
+    "bibikhanyDesc": "One of the largest mosques in the Islamic world.",
+    "siabBazaar": "Siab Bazaar",
+    "siabBazaarDesc": "Walk through Samarkand's oldest marketplace.",
+    "shahizinda": "Shah-i-Zinda Necropolis",
+    "shahizindaDesc": "A sacred pilgrimage site with azure mausoleums.",
+    "itinerary": "Itinerary",
+    "duration": "Duration",
+    "meetingPoint": "Meeting Point",
+    "included": "What's included",
+    "bookNow": "Book Now"
+  },
+  "errors": {
+    "nameRequired": "Full name is required",
+    "invalidEmail": "Please enter valid email",
+    "phoneRequired": "Phone must be full +998XXXXXXXXX"
+  }
+}
