@@ -102,7 +102,7 @@ export default function TourSelect() {
   );
 
   return (
-    <div className="font-sans px-20 py-12">
+    <div className="font-sans px-5 py-12">
       <h1 className="text-[36px] leading-[44px] font-bold tracking-[-0.02em] text-[#1E2939]">
         {t("tourSelect.samarkandTour")}
       </h1>
